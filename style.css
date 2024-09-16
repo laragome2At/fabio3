@@ -49,11 +49,27 @@ p{
 }
 .botao2{
     background-color: transparent;
-    margin-left: 3px;
+    margin-left: 6px;
     width: 112px;
     height: 30px;
     border-color: rgb(250, 182, 55);
     color: rgb(250, 182, 55);
+    cursor: pointer;
+}
+.face{
+    width: 30px;
+    margin-top: 350px;
+    margin-left: 1670px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.t{
+    width: 30px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+.insta{
+    width: 30px;
     cursor: pointer;
 }
 
